@@ -1,0 +1,1 @@
+const db = new sqlite3.Database("my.db");
